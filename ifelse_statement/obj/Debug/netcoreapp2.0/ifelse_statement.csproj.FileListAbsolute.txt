@@ -1,0 +1,11 @@
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\ifelse_statement\bin\Debug\netcoreapp2.0\ifelse_statement.deps.json
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\ifelse_statement\bin\Debug\netcoreapp2.0\ifelse_statement.runtimeconfig.json
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\ifelse_statement\bin\Debug\netcoreapp2.0\ifelse_statement.runtimeconfig.dev.json
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\ifelse_statement\bin\Debug\netcoreapp2.0\ifelse_statement.dll
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\ifelse_statement\bin\Debug\netcoreapp2.0\ifelse_statement.pdb
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\ifelse_statement\obj\Debug\netcoreapp2.0\ifelse_statement.csproj.CoreCompileInputs.cache
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\ifelse_statement\obj\Debug\netcoreapp2.0\ifelse_statement.AssemblyInfoInputs.cache
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\ifelse_statement\obj\Debug\netcoreapp2.0\ifelse_statement.AssemblyInfo.cs
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\ifelse_statement\obj\Debug\netcoreapp2.0\ifelse_statement.dll
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\ifelse_statement\obj\Debug\netcoreapp2.0\ifelse_statement.pdb
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\ifelse_statement\obj\Debug\netcoreapp2.0\ifelse_statement.csprojAssemblyReference.cache

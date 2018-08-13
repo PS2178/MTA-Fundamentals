@@ -1,0 +1,11 @@
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\for_statement\bin\Debug\netcoreapp2.0\for_statement.deps.json
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\for_statement\bin\Debug\netcoreapp2.0\for_statement.runtimeconfig.json
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\for_statement\bin\Debug\netcoreapp2.0\for_statement.runtimeconfig.dev.json
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\for_statement\bin\Debug\netcoreapp2.0\for_statement.dll
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\for_statement\bin\Debug\netcoreapp2.0\for_statement.pdb
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\for_statement\obj\Debug\netcoreapp2.0\for_statement.csprojAssemblyReference.cache
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\for_statement\obj\Debug\netcoreapp2.0\for_statement.csproj.CoreCompileInputs.cache
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\for_statement\obj\Debug\netcoreapp2.0\for_statement.AssemblyInfoInputs.cache
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\for_statement\obj\Debug\netcoreapp2.0\for_statement.AssemblyInfo.cs
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\for_statement\obj\Debug\netcoreapp2.0\for_statement.dll
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\for_statement\obj\Debug\netcoreapp2.0\for_statement.pdb

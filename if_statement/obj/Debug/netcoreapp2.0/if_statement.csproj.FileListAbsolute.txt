@@ -1,0 +1,11 @@
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\if_statement\bin\Debug\netcoreapp2.0\if_statement.deps.json
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\if_statement\bin\Debug\netcoreapp2.0\if_statement.runtimeconfig.json
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\if_statement\bin\Debug\netcoreapp2.0\if_statement.runtimeconfig.dev.json
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\if_statement\bin\Debug\netcoreapp2.0\if_statement.dll
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\if_statement\bin\Debug\netcoreapp2.0\if_statement.pdb
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\if_statement\obj\Debug\netcoreapp2.0\if_statement.csproj.CoreCompileInputs.cache
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\if_statement\obj\Debug\netcoreapp2.0\if_statement.AssemblyInfoInputs.cache
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\if_statement\obj\Debug\netcoreapp2.0\if_statement.AssemblyInfo.cs
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\if_statement\obj\Debug\netcoreapp2.0\if_statement.dll
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\if_statement\obj\Debug\netcoreapp2.0\if_statement.pdb
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\if_statement\obj\Debug\netcoreapp2.0\if_statement.csprojAssemblyReference.cache

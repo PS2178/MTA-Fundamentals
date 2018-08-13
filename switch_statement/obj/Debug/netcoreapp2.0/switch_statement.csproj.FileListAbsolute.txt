@@ -1,0 +1,11 @@
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\switch_statement\bin\Debug\netcoreapp2.0\switch_statement.deps.json
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\switch_statement\bin\Debug\netcoreapp2.0\switch_statement.runtimeconfig.json
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\switch_statement\bin\Debug\netcoreapp2.0\switch_statement.runtimeconfig.dev.json
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\switch_statement\bin\Debug\netcoreapp2.0\switch_statement.dll
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\switch_statement\bin\Debug\netcoreapp2.0\switch_statement.pdb
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\switch_statement\obj\Debug\netcoreapp2.0\switch_statement.csproj.CoreCompileInputs.cache
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\switch_statement\obj\Debug\netcoreapp2.0\switch_statement.AssemblyInfoInputs.cache
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\switch_statement\obj\Debug\netcoreapp2.0\switch_statement.AssemblyInfo.cs
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\switch_statement\obj\Debug\netcoreapp2.0\switch_statement.dll
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\switch_statement\obj\Debug\netcoreapp2.0\switch_statement.pdb
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\switch_statement\obj\Debug\netcoreapp2.0\switch_statement.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\IntroducingCS\bin\Debug\netcoreapp2.0\IntroducingCS.deps.json
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\IntroducingCS\bin\Debug\netcoreapp2.0\IntroducingCS.runtimeconfig.json
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\IntroducingCS\bin\Debug\netcoreapp2.0\IntroducingCS.runtimeconfig.dev.json
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\IntroducingCS\bin\Debug\netcoreapp2.0\IntroducingCS.dll
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\IntroducingCS\bin\Debug\netcoreapp2.0\IntroducingCS.pdb
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\IntroducingCS\obj\Debug\netcoreapp2.0\IntroducingCS.csprojAssemblyReference.cache
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\IntroducingCS\obj\Debug\netcoreapp2.0\IntroducingCS.csproj.CoreCompileInputs.cache
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\IntroducingCS\obj\Debug\netcoreapp2.0\IntroducingCS.AssemblyInfoInputs.cache
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\IntroducingCS\obj\Debug\netcoreapp2.0\IntroducingCS.AssemblyInfo.cs
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\IntroducingCS\obj\Debug\netcoreapp2.0\IntroducingCS.dll
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\IntroducingCS\obj\Debug\netcoreapp2.0\IntroducingCS.pdb

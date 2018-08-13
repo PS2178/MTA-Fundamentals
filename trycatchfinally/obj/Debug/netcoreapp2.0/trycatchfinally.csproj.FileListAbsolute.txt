@@ -1,0 +1,10 @@
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\trycatchfinally\bin\Debug\netcoreapp2.0\trycatchfinally.deps.json
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\trycatchfinally\bin\Debug\netcoreapp2.0\trycatchfinally.runtimeconfig.json
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\trycatchfinally\bin\Debug\netcoreapp2.0\trycatchfinally.runtimeconfig.dev.json
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\trycatchfinally\bin\Debug\netcoreapp2.0\trycatchfinally.dll
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\trycatchfinally\bin\Debug\netcoreapp2.0\trycatchfinally.pdb
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\trycatchfinally\obj\Debug\netcoreapp2.0\trycatchfinally.csproj.CoreCompileInputs.cache
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\trycatchfinally\obj\Debug\netcoreapp2.0\trycatchfinally.AssemblyInfoInputs.cache
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\trycatchfinally\obj\Debug\netcoreapp2.0\trycatchfinally.AssemblyInfo.cs
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\trycatchfinally\obj\Debug\netcoreapp2.0\trycatchfinally.dll
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\trycatchfinally\obj\Debug\netcoreapp2.0\trycatchfinally.pdb

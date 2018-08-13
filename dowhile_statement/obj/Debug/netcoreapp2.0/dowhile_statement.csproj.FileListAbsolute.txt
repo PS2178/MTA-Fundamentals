@@ -1,0 +1,11 @@
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\dowhile_statement\bin\Debug\netcoreapp2.0\dowhile_statement.deps.json
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\dowhile_statement\bin\Debug\netcoreapp2.0\dowhile_statement.runtimeconfig.json
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\dowhile_statement\bin\Debug\netcoreapp2.0\dowhile_statement.runtimeconfig.dev.json
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\dowhile_statement\bin\Debug\netcoreapp2.0\dowhile_statement.dll
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\dowhile_statement\bin\Debug\netcoreapp2.0\dowhile_statement.pdb
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\dowhile_statement\obj\Debug\netcoreapp2.0\dowhile_statement.csproj.CoreCompileInputs.cache
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\dowhile_statement\obj\Debug\netcoreapp2.0\dowhile_statement.AssemblyInfoInputs.cache
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\dowhile_statement\obj\Debug\netcoreapp2.0\dowhile_statement.AssemblyInfo.cs
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\dowhile_statement\obj\Debug\netcoreapp2.0\dowhile_statement.dll
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\dowhile_statement\obj\Debug\netcoreapp2.0\dowhile_statement.pdb
+C:\Users\rcoop\Documents\MTA 98-361 Exam\Lesson01\dowhile_statement\obj\Debug\netcoreapp2.0\dowhile_statement.csprojAssemblyReference.cache
